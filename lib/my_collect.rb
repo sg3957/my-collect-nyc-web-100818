@@ -5,6 +5,4 @@ def my_collect(array)
   count++
 end
 end
-array
-end
 
